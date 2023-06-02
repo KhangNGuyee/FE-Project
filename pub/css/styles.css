@@ -1,0 +1,777 @@
+/* 1280 x 800 */
+
+body {
+    background-color: #0d0e1b;
+}
+
+/* CSS of logo */
+.logo {
+
+    background: #2e2a43;
+}
+
+.nav-item {
+    padding: 20px;
+    text-decoration: non;
+}
+
+.item-right>a>img {
+    padding: 25px 0;
+    border-radius: 50%;
+}
+
+.gio_hang>a>img {
+    padding: 25px 0;
+    border-radius: 50%;
+}
+
+.text {
+    padding: 25px 0;
+    color: #fff;
+}
+
+.lang>img {
+    text-align: center;
+    height: 20px;
+
+    margin-top: 29px;
+    display: inline-block;
+}
+
+.qg {
+    padding: 25px 0;
+    color: #fff;
+}
+
+.Hinhdaidien>img {
+    text-align: center;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 27px;
+    display: inline-block;
+}
+
+/* CSS of Banner */
+.image img {
+    display: block;
+    width: 100%;
+    /* height: 1000px; */
+    text-align: center;
+}
+
+h3 {
+    color: #ff7a21;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 45px;
+
+    padding-top: 10%;
+    padding-left: 100px;
+    position: absolute;
+}
+
+h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 95px;
+    position: absolute;
+    padding-top: 13%;
+    padding-left: 100px;
+}
+
+.image a {
+    position: absolute;
+    padding-top: 20%;
+    padding-left: 100px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+/* CSS of Container*/
+
+.vd {
+    width: 1000px;
+    height: 700px;
+    padding: 100px 0;
+}
+
+.vd img {
+    position: absolute;
+ 
+    height: 600px;
+    display: block;
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.section_140 {
+    padding-top: 50px 0;
+    display: block;
+    padding-bottom: 50px;
+}
+
+.game-area {
+    background: #080811 none repeat scroll 0 0;
+    position: relative;
+}
+
+.chu {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.site-hearding {
+    padding-bottom: 5px;
+    position: relative;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+.chu h2 {
+    color: #fff;
+    display: block;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: .03em;
+    line-height: 45px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.site-heading h2 {
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.site-heading h2 span {
+    color: #ff7a21;
+}
+
+.gg {
+    text-align: center;
+    font-size: 400%;
+    color: beige
+}
+
+span {
+    color: #ff7a21;
+}
+
+p {
+    margin-bottom: 1rem;
+    margin-top: 0;
+    color: #c4c4c4;
+}
+
+.nav-item2 a {
+    color: #fff;
+    display: block;
+    font-family: Rajdhani, sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    padding: 7px 25px;
+    position: relative;
+    text-transform: uppercase;
+
+}
+
+.project-bnt {
+    justify-content: center;
+    margin: 0 0 30px !important;
+    width: 100%;
+    ;
+}
+
+a {
+    color: #6b739c;
+    text-decoration: none;
+
+}
+
+.games-item {
+    display: block;
+    margin-top: 30px;
+    height: 512px;
+    width: 302px;
+
+}
+
+.game-single {
+    height: 512px;
+    width: 302px;
+
+    background: #0d0e1b none repeat scroll 0 0;
+    overflow: hidden;
+
+
+}
+
+.game-thumb {
+    height: 512px;
+    width: 240px;
+
+}
+
+.game-thumb-image {
+    height: 500px;
+    width: 302px;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.game-thumb-image img {
+    height: 300px;
+    width: 216px;
+}
+
+.col-lg-3 {
+    padding: 12px;
+    height: 500px;
+    width: 300px;
+}
+
+.text-game {
+    padding-top: 20px;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.game-meta {
+    text-align: left;
+    padding-left: 50px;
+    color: #5e7479;
+}
+
+.game-up {
+    text-align: left;
+    padding-left: 50px;
+    color: #5e7479;
+}
+
+.game-rate {
+    text-align: center;
+    color: #5e7479;
+}
+
+.game-price {
+    text-align: left;
+    padding-left: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.game-price p {
+    color: red;
+}
+
+.game-price image {
+    position: absolute;
+}
+.tab-content{
+    display: block;
+}
+
+/* css of next match */
+.site-heading {
+    padding-bottom: 5px;
+    position: relative;
+    margin: 0 auto 30px;
+
+    width: 70%;
+
+}
+
+.site-heading p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.site-heading h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+
+    line-height: 45px;
+
+    text-transform: uppercase;
+    transition: all .85s ease;
+}
+
+.game-imag img {
+    height: 345px;
+    width: 242px;
+}
+
+.match-box-left .game-imag {
+    -webkit-transform: perspective(600px) rotateY(30deg);
+    transform: perspective(600px) rotateY(30deg);
+}
+
+.game-imag {
+    background: #080811 none repeat scroll 0 0;
+    padding: 30px;
+    transition: all .4s ease 0s;
+}
+
+.match-box-left {
+    height: 365px;
+    width: 336px;
+}
+
+.match-count ul {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.match-count li span {
+    color: #ff7a21;
+    display: block;
+    font-family: Rajdhani, sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+}
+
+.match-count li {
+
+    background: #080811 none repeat scroll 0 0;
+    border-radius: 5px;
+    font-size: 14px;
+    margin: 0 5px;
+    min-width: 75px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.match-box-inn {
+    margin: 30px auto 0;
+    text-align: center;
+    width: 90%;
+}
+
+.match-vs {
+    margin: 35px auto 0;
+    width: 30%;
+}
+
+.match-action {
+    margin-top: 30px;
+}
+
+.fag-btn {
+
+    border: 2px solid #ff7a21;
+    color: #fff;
+    display: inline-block;
+    font-family: Rajdhani, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+.match-act a:hover {
+    background: #ff7a21;
+}
+
+.fag-btn:hover {
+    background: transparent;
+    border-color: #ff7a21;
+    color: #fff;
+}
+
+.match-box-right .game-imag {
+    -webkit-transform: perspective(600px) rotateY(-30deg);
+    transform: perspective(600px) rotateY(-30deg);
+}
+
+.section-100 {
+    padding: 100px 0;
+}
+
+/* CSS of info */
+.fag-promo-area {
+    position: relative;
+}
+
+.promo-image img {
+    width: 1350px;
+    height: 800px;
+}
+
+.promo-info {
+    left: 0;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+
+    transform: translateY(-50%);
+}
+
+.promo-box {
+    color: #fff;
+
+    padding-top: 8400px;
+    padding-left: 100px;
+    font-size: x-large;
+}
+
+/* CSS of team member */
+.fag-team {
+    padding-top: 0px;
+    padding-bottom: 40px;
+    position: relative;
+}
+
+.team-item {
+    background: #080811 none repeat scroll 0 0;
+    margin-bottom: 30px;
+    padding: 30px;
+    text-align: center;
+    height: 350px;
+}
+
+.team-image img {
+    height: 200px;
+}
+
+.team-detail h3 {
+    color: #fff;
+    font-size: 26px;
+    text-transform: capitalize;
+}
+
+.team-detail span {
+    color: #999;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.name-dev {
+    padding-top: 10px;
+
+    color: #fff;
+    font-size: x-large;
+}
+
+.team-soc {
+    position: absolute;
+
+}
+
+.team-soc ul {
+    display: flex;
+}
+
+.team-soc img {
+    border-radius: 50%;
+    padding-left: 5px;
+}
+
+/* CSS of new game */
+
+.pre-imge img {
+    width: 100%;
+
+}
+
+.preorder-inn {
+    left: 0;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+.fag-preorder {
+
+    height: 540px;
+    padding: 100px 0;
+    position: relative;
+    z-index: 1;
+}
+
+.preorder-box p {
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: .75px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.nameofgame {
+    color: #fff;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.preorder-box .nameofgame span {
+    display: block;
+    font-size: 45px;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+/* CSS of blog */
+
+.blog-iamge {
+    border-radius: 18px;
+    overflow: hidden;
+    position: relative;
+    height: 359px;
+    width: 576px;
+    margin: 0;
+}
+
+.blog-image img {
+    border-radius: 18px;
+
+    transition: all .4s;
+    width: 100%;
+}
+
+.blog-item .blog-iamge img {
+    height: 359px;
+    width: 576px;
+    /* padding: 12px; */
+    padding: 15px;
+    margin-top: 18px;
+}
+
+.blog-text {
+    padding-top: 20px;
+}
+
+.blog-cat a {
+    background: #ff7a21 none repeat scroll 0 0;
+    border-radius: 18px;
+    color: #fff;
+    display: inline-block;
+    font-family: Rajdhani, sans-serif;
+    font-weight: 600;
+    padding: 5px 20px;
+    text-transform: capitalize;
+    margin-left: 6px;
+}
+
+.blog-text h3 {
+    color: #fff;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.blog-text h3 a {
+    color: #fff;
+}
+
+.post-info {
+    border-top: 1px dashed #4e4e4e;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+.post-info li {
+    display: inline-block;
+    margin-right: 25px;
+    color: #fff;
+}
+
+.post-info li a {
+    color: #fff;
+}
+
+.post-info li a svg {
+    color: #ff7a21;
+    margin-right: 5px;
+}
+
+.post-large {
+    height: 668px;
+    width: 570px;
+}
+
+.post-info li:last-child {
+    margin: 0;
+}
+
+.title {
+    color: #fff;
+    font-size: x-large;
+}
+
+.post-small .blog-image {
+    -moz-border-radius-bottomright: 0;
+
+    -webkit-border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    position: relative;
+    transition: all .2s ease;
+    width: 35%;
+}
+
+.post-small .blog-item {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.post-small .blog-image img {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    height: 166px;
+    left: 0;
+    position: absolute;
+    top: 0;
+
+}
+
+.col-6 {
+    padding: 12px;
+}
+
+.post-small .blog-text {
+    background: #080811 none repeat scroll 0 0;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+
+    width: 65%;
+}
+
+.post-small .blog-text p.blog-cat {
+    display: inline-block;
+}
+
+.post-small .blog-text h3 {
+    font-size: 24px;
+}
+
+.post-small .blog-text p {
+    display: none;
+}
+
+.title-small {
+    color: #fff;
+
+}
+
+/* CSS of footer */
+.footer-top-area {
+    padding: 70px 0 100px;
+    position: relative;
+}
+
+.single-footer {
+    margin-top: 30px;
+}
+
+.single-footer p {
+    color: #727489;
+    font-size: 16px;
+    margin: 0 0 10px
+}
+
+.single-footer ul li {
+    margin: 5px 0 0;
+}
+
+.single-footer ul li a {
+    color: #727489;
+    display: block;
+    font-size: 15px;
+}
+
+.single-footer ul li a svg {
+    color: #ff7a21;
+    margin-right: 5px;
+}
+
+.footer-contact {
+    margin-top: 15px;
+}
+
+.footer-contact h4 {
+    font-size: 18px;
+}
+
+.footer-contact h4 svg {
+    color: #ff7a21;
+    font-size: 16px;
+    width: 25px;
+}
+
+.footer-contact p {
+    line-height: 21px;
+    margin-bottom: 0;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.footer-tieude {
+    color: #fff;
+    font-size: larger
+}
+
+.footer-bottom-inn {
+    border-top: 1px solid #181829;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.footer-bottom-inn ul {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.footer-bottom-inn ul li {
+    display: inline-block;
+    margin: 0 2px;
+}
+
+.footer-bottom-inn ul li a {
+
+
+    border-radius: 50%;
+    color: #ff7a21;
+    display: block;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+.copyright p {
+    margin: 0;
+}
+.name-sinhvien{
+    text-align: center;
+    font-size: x-large;
+    color: #ff7a21;
+    text-transform: inherit;
+}
